@@ -1,0 +1,56 @@
+header {
+    height: 20vh;
+    border: 5px solid #000000;
+    margin: 1%;
+}
+
+.purple, .green, .circle {
+    display: inline-block;
+}
+
+.purple {
+    background: purple;
+    height: 65%;
+    width: 5%;
+    margin: 58px 20px 5px 8px;
+}
+
+.green {
+    background: green;
+    height: 90%;
+    margin: 5px 20px;
+    width: 37%;
+}
+.circle {
+    background: lightskyblue;
+    height: 90%;
+    margin: 5px;
+    width: 20%;
+    border-radius: 50%;
+}
+.middle {
+    height: 30vh;
+    border: 5px dotted #000000;
+    margin: 3% 1% 1% 1%;
+
+}
+
+.center {
+    height: 75%;
+    width: 90%;
+    background: rgb(252, 231, 185);
+    margin: 35px auto;
+    box-shadow: 8px 8px 3px black;
+}
+
+footer {
+    height: 10vh;
+    width: 48vw;
+    border: 1px solid rgb(212, 212, 212);
+    margin: 20px auto;
+    text-align: center;
+    box-shadow: 3px 3px 2px rgba(0, 0, 0, 0.226);
+    color: purple;
+    font-size: 32px;
+    padding: 100px;
+}

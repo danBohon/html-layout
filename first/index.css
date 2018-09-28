@@ -1,0 +1,32 @@
+header {
+    height: 20vh;
+    width: 100vw;
+    background: rgb(61, 61, 61);
+}
+
+div {
+    background: white;
+    height: 70vh;
+    width: 72vw;
+    margin:auto;
+}
+
+/* .div-left {
+    float: left;;
+}
+
+.div-right {
+    float: right; */
+
+body {
+    background: rgb(182, 182, 182);
+    height: 100%;
+    width: 100%;
+}
+
+footer {
+    height: 10vh;
+    background: black;
+    width: 72vw;
+    margin: auto;
+}
